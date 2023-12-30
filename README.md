@@ -2,7 +2,7 @@
 package x;
 import java.util.Scanner;
  
-
+ 
 class Student{
     String name1;
     int a;
